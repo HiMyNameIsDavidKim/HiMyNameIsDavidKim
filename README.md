@@ -2,14 +2,25 @@
 
 ### Hi, my name is David Kim.😎
 
-<br/> 
+<br/>
 
-#### My study history is here. now, I'm doing research in this lab.
-#### I will grow into a legendary Data Scientist.
+##### My study history is here.
+##### Now, I'm doing research in this lab.
+##### I will grow into a legendary Data Scientist.
 <a href="https://github.com/HiMyNameIsDavidKim/Study" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 <a href="https://ideakhu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/Lab-3776AB?style=flat-square&logo=Electron&logoColor=white"/></a>
+  
+  <br/> 
+  
+#### `Career`
+##### (2020.11 ~ 2022.09) LG Display
+##### Research and engineering on CV inspection of Apple Watch display panel. 
+##### (2018.12 ~ 2019.01) Tricubics Korea
+##### Research on Tesseract OCR(Google) with rectangular detector(OpenCV). 
 
-#### Tech Stack(Main)
+  <br/>
+  
+#### `Tech Stack(Main)`
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-6DB33F?style=flat-square&logo=Anaconda&logoColor=white">
   <br/>
@@ -25,7 +36,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <br/>  
   
-#### Tech Stack(Sub)
+#### `Tech Stack(Sub)`
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white">
 <br/>  
@@ -43,8 +54,4 @@
 
 <br/>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&theme=react&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
-  <img src="https://raw.githubusercontent.com/HiMyNameIsDavidKim/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&theme=react&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" />
