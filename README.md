@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <br/>
-  <img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   
@@ -43,4 +43,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&theme=react&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/HiMyNameIsDavidKim/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+</a>
+
