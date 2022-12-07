@@ -6,8 +6,8 @@
 
 #### My study history is here. now, I'm doing research in this lab.
 #### I will grow into a legendary Data Scientist.
-<a href="https://github.com/HiMyNameIsDavidKim/Study" target="_blank"><img src="https://img.shields.io/badge/Study-282828?style=flat-square&logo=Bookstack&logoColor=white"/></a>
-<a href="https://ideakhu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/Lab-282828?style=flat-square&logo=Electron&logoColor=white"/></a>
+<a href="https://github.com/HiMyNameIsDavidKim/Study" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
+<a href="https://ideakhu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/Lab-3776AB?style=flat-square&logo=Electron&logoColor=white"/></a>
 
 #### Tech Stack(Main)
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -20,21 +20,22 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
 <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <br/>  
   
 #### Tech Stack(Sub)
-  <img src="https://img.shields.io/badge/Rust-EA4335?style=flat-square&logo=Rust&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white">
 <br/>  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
+<br/>
+  <img src="https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<br/>
-  
-
   
 #### You can contact me at here.
   <a href="https://www.instagram.com/ga_lahm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
