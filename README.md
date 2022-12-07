@@ -6,11 +6,12 @@
 
 <br/>
 
-  
 #### My study history is here.
 #### I will grow into a legendary Data Scientist.
   <a href="https://github.com/HiMyNameIsDavidKim/Study" target="_blank"><img src="https://img.shields.io/badge/Study-282828?style=flat-square&logo=Bookstack&logoColor=white"/></a>
-
+#### I'm doing research in this lab. [🔬](https://ideakhu.wixsite.com/home)
+  
+  
 <br/>
 
 #### You can contact me at here.
