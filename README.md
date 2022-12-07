@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, my name is David Kim.😎
+### 👋 Hi, my name is David Kim. 😎
 
 <br/>
 
