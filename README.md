@@ -20,4 +20,4 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
