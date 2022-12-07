@@ -14,9 +14,9 @@
   
 #### `Career`
 ##### (2020.11 ~ 2022.09) LG Display
-##### Research and engineering on CV inspection of Apple Watch display panel. 
+##### Research, Design and Engineering on Algorithm of CV inspection to Apple Watch display panel. 
 ##### (2018.12 ~ 2019.01) Tricubics Korea
-##### Research on Tesseract OCR(Google) with rectangular detector(OpenCV). 
+##### Research on Algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV). 
 
   <br/>
   
