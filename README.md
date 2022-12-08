@@ -5,17 +5,17 @@
 <br/>
 
 ##### My study history is here.
-##### Now, I'm doing research in this lab.
+##### Now, I'm doing research in this Lab.
 ##### I will grow into a legendary Data Scientist.
 <a href="https://github.com/HiMyNameIsDavidKim/Study" target="_blank"><img src="https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white"/></a>
 <a href="https://ideakhu.wixsite.com/home" target="_blank"><img src="https://img.shields.io/badge/Lab-3776AB?style=flat-square&logo=Electron&logoColor=white"/></a>
-  
+
   <br/> 
   
 #### `Career`
-##### (2020.11 ~ 2022.09) LG Display
-##### Design and Engineering on algorithm of CV inspection to Apple Watch panel. 
-##### (2018.12 ~ 2019.01) Tricubics Korea
+##### (2020.11 ~ 2022.09), LG Display
+##### Design and Engineering on big data algorithm of CV inspection to Apple Watch panel. 
+##### (2018.12 ~ 2019.01), Tricubics Korea
 ##### Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
 
   <br/>
