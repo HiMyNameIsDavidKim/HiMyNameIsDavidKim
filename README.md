@@ -56,5 +56,5 @@
 
 <br/>
 
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "49%">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "41%">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "41%">
