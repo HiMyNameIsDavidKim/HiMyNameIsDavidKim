@@ -14,7 +14,7 @@
   
 #### `Career`
 ##### (2023.02 ~ ), IDEA Lab.
-##### Research on Deep Learning applications.
+##### Research on CV Deep Learning applications.
 ##### (2020.11 ~ 2022.09), LG Display
 ##### Design and Engineering on big data algorithm of CV inspection to Apple Watch panel.
 ##### (2018.12 ~ 2019.01), Tricubics Korea
@@ -60,6 +60,6 @@
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiMyNameIsDavidKim%2Fhit-counter&count_bg=%2300DFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%86&edge_flat=false"/></a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "46%">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "50%">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "41%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width = "40%">
