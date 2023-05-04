@@ -17,7 +17,7 @@
 ##### (2023.02 ~ ), IDEA Lab.
 ##### Research on CV Deep Learning applications.
 ##### (2020.11 ~ 2022.09), LG Display
-##### Design and Engineering on big data algorithm of CV inspection to Apple Watch panel.
+##### Design and Engineering on big data algorithm (Decision Tree) of CV inspection to Apple Watch panel.
 ##### (2018.12 ~ 2019.01), Tricubics Korea
 ##### Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
 
