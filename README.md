@@ -1,27 +1,39 @@
 <div align="center">
 
-### 👋 Hi, my name is David Kim. 😎
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed" width="25" height="25" /> Hi, my name is David Kim. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="25" height="25" />
 
 <br/>
 
-##### My study history is here.
-👉 [![Study](https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white)](https://github.com/HiMyNameIsDavidKim/Study) 👈
-##### Now, I'm doing research in the lab.
-##### I will grow into a legendary Data Scientist.
+My study history is here.
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Right" width="25" height="25" /> [![Study](https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white)](https://github.com/HiMyNameIsDavidKim/Study) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Left" width="25" height="25" />
+<br/><br/>
+Now, I'm doing research in the lab.
+<br/><br/>
+I will grow into a legendary Data Scientist.
+<br/><br/>
 
 <br/> 
 
-#### `Career`
-##### (2023.02 ~ ), IDEA Lab.
-##### Research on CV Deep Learning applications.
-##### (2020.11 ~ 2022.09), LG Display
-##### Design and Engineering on big data algorithm (Decision Tree) of CV inspection to Apple Watch panel.
-##### (2018.12 ~ 2019.01), Tricubics Korea
-##### Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
+`Career`
+<br/><br/>
+(2023.02 ~ ), IDEA Lab.
+<br/><br/>
+Research on CV Deep Learning applications.
+<br/><br/>
+(2020.11 ~ 2022.09), LG Display
+<br/><br/>
+Design and Engineering on big data algorithm (Decision Tree) of CV inspection to Apple Watch panel.
+<br/><br/>
+(2018.12 ~ 2019.01), Tricubics Korea
+<br/><br/>
+Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
+<br/><br/>
 
 <br/>
 
-#### `Tech Stack(Main)`
+`Tech Stack(Main)`
+<br/><br/>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![Anaconda](https://img.shields.io/badge/Anaconda-6DB33F?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
 <br/>
@@ -32,8 +44,10 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org/)
+<br/><br/>
 
-#### `Tech Stack(Sub)`
+`Tech Stack(Sub)`
+<br/><br/>
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -49,11 +63,14 @@
 [![Java](https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white)](https://www.java.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br/><br/>
 
-#### `contact`
+`contact`
+<br/><br/>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:rkfka1401@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-CB3F7C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ga_lahm/)
 [![Lab](https://img.shields.io/badge/Lab-3776AB?style=flat-square&logo=Electron&logoColor=white)](https://ideakhu.wixsite.com/home)
+<br/><br/>
 
 <br/>
 
