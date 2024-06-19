@@ -23,7 +23,7 @@ I will grow into a legendary Data Scientist.
 <br/><br/>
 (2023.02 ~ ), IDEA Lab.
 <br/><br/>
-Research on CV Deep Learning applications.
+Research on CV Deep Learning model's architectures.
 <br/><br/>
 (2020.11 ~ 2022.09), LG Display
 <br/><br/>
