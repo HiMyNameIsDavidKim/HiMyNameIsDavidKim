@@ -4,7 +4,7 @@
 
 <br/>
 
-My study history is here.
+My study archive is here.
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Right" width="25" height="25" /> [![Study](https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white)](https://github.com/HiMyNameIsDavidKim/Study) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Left" width="25" height="25" />
 <br/><br/>
