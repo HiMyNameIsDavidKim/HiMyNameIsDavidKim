@@ -4,34 +4,13 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Right" width="25" height="25" /> [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/HiMyNameIsDavidKim/Study/tree/main/6Project/resume) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Left" width="25" height="25" />
+<br/><br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Right" width="25" height="25" /> [![Study](https://img.shields.io/badge/Study-3776AB?style=flat-square&logo=Bookstack&logoColor=white)](https://github.com/HiMyNameIsDavidKim/Study) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Left" width="25" height="25" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Right" width="25" height="25" /> [![Blog](https://img.shields.io/badge/Blog-EA4335?style=flat-square&logo=tistory&logoColor=white)](https://davidlds.tistory.com/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" alt="Left" width="25" height="25" />
 <br/><br/>
-Now, I'm doing research in the lab.
-<br/><br/>
 I will grow into a legendary Data Scientist.
-<br/><br/>
-
-<br/> 
-
-`Career`
-<br/><br/>
-(2023.02 ~ 2025.02), IDEA Lab.
-<br/><br/>
-Research on CV deep learning model's architectures.
-<br/><br/>
-(2020.11 ~ 2022.09), LG Display
-<br/><br/>
-Design and Engineering on algorithm of CV inspection to Apple Watch panel.
-<br/><br/>
-(2018.12 ~ 2019.01), Tricubics Korea
-<br/><br/>
-Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
-<br/><br/>
- [![Lab](https://img.shields.io/badge/Idea_Lab-3776AB?style=plastic&logo=Electron&logoColor=white)](https://ideakhu.wixsite.com/home)
- [![LGD](https://img.shields.io/badge/LG_Display-A50034?style=plastic&logo=lg&logoColor=white)](https://www.lgdisplay.com/)
- [![Tricubics](https://img.shields.io/badge/Tricubics-009688?style=plastic&logo=apachenetbeanside&logoColor=white)](https://www.tricubics.com/)
 <br/><br/>
 
 <br/>
