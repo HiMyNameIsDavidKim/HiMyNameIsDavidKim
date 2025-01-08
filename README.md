@@ -29,6 +29,10 @@ Design and Engineering on big data algorithm (Decision Tree) of CV inspection to
 <br/><br/>
 Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV).
 <br/><br/>
+ [![Lab](https://img.shields.io/badge/Idea_Lab-3776AB?style=plastic&logo=Electron&logoColor=white)](https://ideakhu.wixsite.com/home)
+ [![LGD](https://img.shields.io/badge/LG_Display-A50034?style=plastic&logo=lg&logoColor=white)](https://www.lgdisplay.com/)
+ [![Tricubics](https://img.shields.io/badge/Tricubics-009688?style=plastic&logo=apachenetbeanside&logoColor=white)](https://www.tricubics.com/)
+<br/><br/>
 
 <br/>
 
@@ -71,7 +75,6 @@ Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV)
 <br/><br/>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:rkfka1401@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-CB3F7C?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ga_lahm/)
-[![Lab](https://img.shields.io/badge/Lab-3776AB?style=flat-square&logo=Electron&logoColor=white)](https://ideakhu.wixsite.com/home)
 <br/><br/>
 
 <br/>
