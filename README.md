@@ -23,7 +23,7 @@ Research on CV deep learning model's architectures.
 <br/><br/>
 (2020.11 ~ 2022.09), LG Display
 <br/><br/>
-Design and Engineering on big data algorithm (Decision Tree) of CV inspection to Apple Watch panel.
+Design and Engineering on algorithm of CV inspection to Apple Watch panel.
 <br/><br/>
 (2018.12 ~ 2019.01), Tricubics Korea
 <br/><br/>
