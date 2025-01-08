@@ -17,7 +17,7 @@ I will grow into a legendary Data Scientist.
 
 `Career`
 <br/><br/>
-(2023.02 ~ ), IDEA Lab.
+(2023.02 ~ 2025.02), IDEA Lab.
 <br/><br/>
 Research on CV deep learning model's architectures.
 <br/><br/>
@@ -43,18 +43,20 @@ Research on algorithm of Tesseract OCR(Google) with rectangular detector(OpenCV)
 <br/>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=polestar&logoColor=white)](https://www.tableau.com/)
+<br/>
+[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)](https://spark.apache.org/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org/)
 <br/><br/>
 
 `Tech Stack(Sub)`
 <br/><br/>
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
+<br/>
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-<br/>
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org/)
 <br/>
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)](https://developer.apple.com/ios/)
