@@ -60,10 +60,12 @@ I will grow into a legendary Data Scientist.
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHiMyNameIsDavidKim%2Fhit-counter&count_bg=%2300DFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%86&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiMyNameIsDavidKim&layout=compact&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiMyNameIsDavidKim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="650" />
 
 </div>
