@@ -22,12 +22,19 @@ I will grow into a legendary Data Scientist.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org)
 [![Anaconda](https://img.shields.io/badge/Anaconda-6DB33F?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
 <br/>
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![HF](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white)](https://huggingface.co/)
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white)](https://onnx.ai/)
+<br/>
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<br/>
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)](https://mlflow.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 <br/>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
 <br/>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
@@ -35,6 +42,11 @@ I will grow into a legendary Data Scientist.
 <br/>
 [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)](https://spark.apache.org/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org/)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white)](https://redis.io/)
+<br/>
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)](https://kafka.apache.org/)
+[![Feast](https://img.shields.io/badge/Feast-335EEA?style=flat-square&logo=anycubic&logoColor=white)](https://docs.feast.dev/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)](https://www.snowflake.com/en/)
 <br/><br/>
 
 `Tech Stack(Sub)`
