@@ -31,10 +31,11 @@ I will grow into a legendary Data Scientist.
 <br/>
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)](https://mlflow.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
 <br/>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=icloud&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
+[![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 <br/>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
