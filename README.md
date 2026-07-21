@@ -47,30 +47,30 @@ I will grow into a legendary Data Scientist.
 <br/>
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white)](https://mlflow.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 <br/>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=icloud&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-<br/>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<br/><br/>
+
+`Tech Stack(Sub)`
+<br/><br/>
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=polestar&logoColor=white)](https://www.tableau.com/)
 <br/>
 [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)](https://spark.apache.org/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org/)
 [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white)](https://redis.io/)
-<br/>
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)](https://kafka.apache.org/)
+<br/>
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
 [![Feast](https://img.shields.io/badge/Feast-335EEA?style=flat-square&logo=anycubic&logoColor=white)](https://docs.feast.dev/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)](https://www.snowflake.com/en/)
-<br/><br/>
-
-`Tech Stack(Sub)`
-<br/><br/>
+<br/>
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 <br/>
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white)](https://developer.apple.com/ios/)
@@ -78,7 +78,7 @@ I will grow into a legendary Data Scientist.
 <br/>
 [![Java](https://img.shields.io/badge/Java-2F2625?style=flat-square&logo=coffeescript&logoColor=white)](https://www.java.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <br/><br/>
 
 `contact`
