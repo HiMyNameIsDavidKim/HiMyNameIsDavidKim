@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="25" height="25" /></td>
-<td align="center"><a href="https://github.com/HiMyNameIsDavidKim/fcvit"><img src="https://img.shields.io/badge/Paper-181717?style=flat-square&logo=GitHub&logoColor=white" /></a></td>
+<td align="center"><a href="https://github.com/HiMyNameIsDavidKim/fcvit"><img src="https://img.shields.io/badge/Paper_of_FCViT-181717?style=flat-square&logo=GitHub&logoColor=white" /></a></td>
 <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left.png" width="25" height="25" /></td>
 </tr>
 <tr>
